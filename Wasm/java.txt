@@ -1,0 +1,3 @@
+tar zxvf jdk-17.tar.gz
+ cd usr/lib/jvm
+ sudo tar -xzvf ~/jdk-17
